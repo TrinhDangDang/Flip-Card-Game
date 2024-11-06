@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrinhDangDang/Flip-Card-Game.git/static/css/main.33299367.css",
+    "main.js": "/TrinhDangDang/Flip-Card-Game.git/static/js/main.fa547cae.js",
+    "index.html": "/TrinhDangDang/Flip-Card-Game.git/index.html",
+    "main.33299367.css.map": "/TrinhDangDang/Flip-Card-Game.git/static/css/main.33299367.css.map",
+    "main.fa547cae.js.map": "/TrinhDangDang/Flip-Card-Game.git/static/js/main.fa547cae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33299367.css",
+    "static/js/main.fa547cae.js"
+  ]
+}
