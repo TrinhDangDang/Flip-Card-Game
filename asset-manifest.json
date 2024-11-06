@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Flip-Card-Game.git/static/css/main.33299367.css",
-    "main.js": "/Flip-Card-Game.git/static/js/main.fa547cae.js",
-    "index.html": "/Flip-Card-Game.git/index.html",
-    "main.33299367.css.map": "/Flip-Card-Game.git/static/css/main.33299367.css.map",
-    "main.fa547cae.js.map": "/Flip-Card-Game.git/static/js/main.fa547cae.js.map"
+    "main.css": "/Flip-Card-Game/static/css/main.33299367.css",
+    "main.js": "/Flip-Card-Game/static/js/main.fa547cae.js",
+    "index.html": "/Flip-Card-Game/index.html",
+    "main.33299367.css.map": "/Flip-Card-Game/static/css/main.33299367.css.map",
+    "main.fa547cae.js.map": "/Flip-Card-Game/static/js/main.fa547cae.js.map"
   },
   "entrypoints": [
     "static/css/main.33299367.css",
